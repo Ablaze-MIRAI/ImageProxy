@@ -1,0 +1,3 @@
+<Files ~ "^\.(aup)$">
+  deny from all
+</Files>
